@@ -1,16 +1,14 @@
-# ifjota
+# Ifjota
 
-A new Flutter application.
+Aplicativo feito em Flutter para a marca Ifjota
 
-## Getting Started
+## Para rodar o projeto
+Instale o 
+[Flutter](https://flutter.dev/docs/get-started/install)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Configure seu [Android Studio](https://developer.android.com/studio/install)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Após instalar os dois, use um dispositivo simulado ou aparelho android conectado via usb para rodar o aplicativo com o android studio
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Grupo: Anne Borowski, Israel Felix, Guilherme da Silva, Meiry Anne e Pedro G. R. Calixto
